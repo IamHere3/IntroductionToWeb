@@ -1,0 +1,82 @@
+
+    html, body {
+        margin: 0;
+		background-color: lightblue;
+    }
+	
+aside { 
+  width: 100%; 
+}
+
+
+
+#center{
+	margin: auto;
+	margin-top: 5px;
+	width: 510px;
+
+}
+
+#pages{
+	height: 50px;
+	width: 100%;
+}
+
+#leftbody{
+	height: 100%;
+	width: 90%;
+	background-color: gray;
+	float: left;
+}
+
+
+.alertBlack{
+	background-color: lightgray;
+}
+
+.alertGreen{
+	background-color: lightgreen;
+}
+
+.alertRed{
+	background-color: orange;
+}
+
+.meh{
+	color: black:
+	
+}
+
+.asideOne{
+	height: 100%;
+}
+
+.imgbox{
+    border-style: solid;
+	border-color: darkblue;
+    border-width: 2px;
+	height: 33%;
+}
+
+.body{
+	height: 800px;
+	padding: 10px;
+}
+
+.backimg{
+	height: 100%;
+	width: 100%;
+}
+
+.header{
+	background-color: gray;
+	height: 125px;
+}
+
+.footer{
+	height: 50px;
+}
+
+.currentBanner{
+	width: 100%;
+}
